@@ -1,0 +1,12 @@
+#!name=EMBY自用分流
+#!desc=本人自用的EMBY进行分流
+#!author=@LD2J0618 
+#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Emby.png
+
+[Rule]
+# > HXD
+DOMAIN,cf.bili.rip
+DOMAIN,hxd.as.174.com
+# > ROBO
+DOMAIN,robo.668918.xyz
+DOMAIN,robo2.668918.xyz
